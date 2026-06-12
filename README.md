@@ -1,41 +1,76 @@
-# Customer-Churn-Prediction
+# 📊 Customer Churn Prediction & Analytics Dashboard
 
-Customer churn is a major challenge for telecom companies.
-This project predicts customer churn using machine learning
-and provides actionable business insights through an
-interactive Power BI dashboard.
+## 📌 Project Overview
 
-# Tools Used
+Customer churn is a critical business challenge in the telecommunications industry. Retaining existing customers is significantly more cost-effective than acquiring new ones.
 
-Python
-Pandas
-NumPy
-Scikit-Learn
-Matplotlib
-Seaborn
-Power BI
+This project aims to predict customer churn using Machine Learning and provide actionable business insights through an interactive Power BI dashboard. The solution helps identify high-risk customers and supports data-driven retention strategies.
 
-# Models Tested
+---
 
-Model	                        Accuracy	Recall
+## 🎯 Objectives
 
-Logistic Regression            	80%	     57%
+- Predict whether a customer is likely to churn.
+- Identify key factors influencing customer churn.
+- Compare multiple machine learning models.
+- Develop an interactive Power BI dashboard for business stakeholders.
+- Generate actionable recommendations to improve customer retention.
 
-Random Forest	                  81%	     54%
+---
 
-Balanced Random Forest	        77%	     74%
+## 🛠️ Tools & Technologies
 
-Best Model : Balanced Random Forest
+### Programming & Analytics
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-Reason:
-Higher churn recall (74%)
-Better identification of at-risk customers.
+### Machine Learning
+- Scikit-Learn
+- Logistic Regression
+- Random Forest
+- Balanced Random Forest
 
-# Key Findings
+### Business Intelligence
+- Power BI
 
-• Month-to-month customers have the highest churn.
-• Fiber optic users account for most churn cases.
-• Electronic check users are more likely to churn.
-• Churn decreases as tenure increases.
-• Lack of Tech Support increases churn risk.
-• Lack of Online Security increases churn risk.
+## 📈 Machine Learning Models Evaluated
+
+| Model | Accuracy | Recall |
+|---------|---------|---------|
+| Logistic Regression | 80% | 57% |
+| Random Forest | 81% | 54% |
+| Balanced Random Forest | 77% | 74% |
+
+---
+
+##  Best Performing Model
+
+### Balanced Random Forest
+
+**Why it was selected:**
+
+- Achieved the highest churn recall (**74%**).
+- Better at identifying customers likely to leave.
+- More suitable for customer retention initiatives where detecting churners is a priority.
+
+## Project Outcome
+
+This project demonstrates an end-to-end Data Science workflow, including:
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Machine Learning Model Development
+- Model Evaluation
+- Business Intelligence Reporting
+- Business Recommendation Generation
+
+The final solution combines predictive analytics and business intelligence to support customer retention decision-making.
+
+
+**Ahemed Sakeer Hussain**
+
+Aspiring Data Scientist | Power BI Developer | Data Analytics Enthusiast
