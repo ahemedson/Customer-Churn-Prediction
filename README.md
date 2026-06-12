@@ -73,4 +73,4 @@ The final solution combines predictive analytics and business intelligence to su
 
 **Ahemed Sakeer Hussain**
 
-Aspiring Data Scientist | Power BI Developer | Data Analytics Enthusiast
+Aspiring Data Scientist | Predictive Modelling | Data Analytics Enthusiast
